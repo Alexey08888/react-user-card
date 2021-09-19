@@ -1,6 +1,14 @@
 .App {
   text-align: center;
+  width: 600px;
+  height: 100px;
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 180px;
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +43,6 @@
   to {
     transform: rotate(360deg);
   }
+
+  
 }
