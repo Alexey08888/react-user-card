@@ -12,7 +12,7 @@
 
 .block1 .name {
   margin-left: 50px;
-  margin-top: -55px;
+  margin-top: -20px;
  
   text-align: center;
   line-height: 170px;
@@ -37,21 +37,27 @@
 .block2 {
   width: 600px;
   height: 220px;
- 
+  display: flex;
+
   background-color: #154360;
-  margin-top: -100px;
+  margin-top: -80px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.8); 
 
 }
 
 .block2 p {
   color: #fff;
+  margin-left: 20px;
+
+  display: flex;
+  
 }
 
 .block1 .name h3 {
   line-height: 200px;
   font-size: 40px;
   display: flex;
-  margin-top: -88px;
+  margin-top: -120px;
   margin-left: 90px;
 }
+
